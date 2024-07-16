@@ -1,2 +1,2 @@
 # AluraFlix
-AluraFlix
+AluraFlix -- Itzel Larraga Padilla
